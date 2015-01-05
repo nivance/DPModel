@@ -9,10 +9,11 @@ DPModel
 
 2.[桥接模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/bridge)
 -------------
-![Alt text](src/dp/com/company/bridge/bridge.jpg "桥接模式")
+![Alt text](src/dp/com/company/bridge/bridge.jpg "桥接模式类图")
 
-3.[建造者模式]()
+3.[建造者模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/builder)
 -------------
+![Alt text](src/dp/com/company/builder/builder.jpg "建造者模式类图")
 
 4.[责任链模式]()
 -------------
