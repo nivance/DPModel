@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<role id="bookOff" class="com.cbf4life.common6.NovelBook">
+		<offRole id="above40" operator=">"  value="90" />
+		<offRole id="below40" operator="<=" vlaue="80" />
+	</role>
+</xml>
