@@ -15,5 +15,28 @@ DPModel
 -------------
 ![Alt text](src/dp/com/company/builder/builder.jpg "建造者模式类图")
 
-4.[责任链模式]()
+4.[责任链模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/chain_of_responsibility)
 -------------
+![Alt text](src/dp/com/company/chain_of_responsibility/chainofresponsibility.jpg "责任链模式类图")
+
+5.[组合模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/composite)
+-------------
+![Alt text](src/dp/com/company/composite/composite.jpg "组合模式类图")
+
+6.[装饰模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/decorator)
+-------------
+![Alt text](src/dp/com/company/decorator/decorator.jpg "装饰模式类图")
+
+7.[门面模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/facade)
+-------------
+![Alt text](src/dp/com/company/facade/facade.jpg "门面模式类图")
+
+8.[工厂模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/factorys)
+-------------
+![Alt text](src/dp/com/company/factorys/factorys.jpg "工厂模式类图")
+
+9.[抽象工厂模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/factorya)
+-------------
+![Alt text](src/dp/com/company/factorya/factorya.jpg "抽象工厂模式类图")
+
+
