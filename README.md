@@ -39,4 +39,11 @@ DPModel
 -------------
 ![Alt text](src/dp/com/company/factorya/factorya.jpg "抽象工厂模式类图")
 
+10.[享元模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/flyweight)
+-------------
+![Alt text](src/dp/com/company/flyweight/flyweight.jpg "享元模式类图")
+
+11.[解释器模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/interpreter)
+-------------
+![Alt text](src/dp/com/company/interpreter/interpreter.jpg "解释器模式类图")
 
