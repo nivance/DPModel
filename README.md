@@ -74,5 +74,20 @@ DPModel
 18.[单例模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/singleton)
 -------------
 
+19.[状态模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/state)
+-------------
+![Alt text](src/dp/com/company/state/state.jpg "状态模式类图")
 
-[MVC](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/mvc)
+20.[策略模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/strategy)
+-------------
+![Alt text](src/dp/com/company/strategy/strategy.jpg "策略模式类图")
+
+21.[模板模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/template_method)
+-------------
+![Alt text](src/dp/com/company/template_method/template.jpg "模板模式类图")
+
+22.[访问者模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/visitor)
+-------------
+![Alt text](src/dp/com/company/visitor/visitor.jpg "访问者模式类图")
+
+23.[MVC](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/mvc)
