@@ -1,0 +1,31 @@
+apply plugin: 'java'
+apply plugin: 'eclipse'
+
+project.group = 'org.nivance'
+project.archivesBaseName = 'dpmodel'
+project.version = '1.0.0'
+
+tasks.withType(Compile) { options.encoding = "UTF-8" }
+
+task sourcesJar(type: Jar, dependsOn: classes) {
+	classifier = 'sources'
+	from sourceSets.main.allSource
+}
+
+artifacts {
+	archives sourcesJar
+}
+
+sourceSets.main.java.srcDirs = ['src/dp']
+
+dependencies {
+    compile group: 'dom4j', name: 'dom4j', version: '1.6.1'
+	compile group: 'javax.servlet', name: 'servlet-api', version: '2.5'
+}
+
+jar {
+	manifest {
+		attributes 'Implementation-Title': 'Gradle Quickstart', 'Implementation-Version': version
+	}
+}
+
