@@ -2,7 +2,7 @@
 <class-diagram version="1.1.6" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true">  
   <class id="1" language="java" name="com.company.facade.section7.Facade" project="DPModel" 
-    file="/DPModel/src/dp/com/company/facade/section7/Facade.java" binary="false" corner="BOTTOM_RIGHT">    
+    file="/DPModel/src/dp/com/company/memento/section9/Facade.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="222" y="129"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      

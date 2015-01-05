@@ -51,3 +51,28 @@ DPModel
 -------------
 ![Alt text](src/dp/com/company/iterator/iterator.jpg "迭代器模式类图")
 
+13.[中介模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/mediator)
+-------------
+![Alt text](src/dp/com/company/mediator/mediator.jpg "中介模式类图")
+
+14.[备忘录模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/memento)
+-------------
+![Alt text](src/dp/com/company/memento/memento.jpg "备忘录模式类图")
+
+15.[观察者模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/observer)
+-------------
+![Alt text](src/dp/com/company/observer/observer.jpg "观察者模式类图")
+
+16.[原型模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/prototype)
+-------------
+
+17.[代理模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/proxy)
+-------------
+![Alt text](src/dp/com/company/proxy/proxy.jpg "代理模式类图")
+![Alt text](src/dp/com/company/proxy/dynamicproxy.jpg "动态代理模式类图")
+
+18.[单例模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/singleton)
+-------------
+
+
+[MVC](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/mvc)
