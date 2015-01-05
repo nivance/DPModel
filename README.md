@@ -47,3 +47,7 @@ DPModel
 -------------
 ![Alt text](src/dp/com/company/interpreter/interpreter.jpg "解释器模式类图")
 
+12.[迭代器模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/iterator)
+-------------
+![Alt text](src/dp/com/company/iterator/iterator.jpg "迭代器模式类图")
+
