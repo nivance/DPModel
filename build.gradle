@@ -1,8 +1,8 @@
 apply plugin: 'java'
 apply plugin: 'eclipse'
 
-project.group = 'org.nivance'
-project.archivesBaseName = 'dpmodel'
+project.group = 'com.company'
+project.archivesBaseName = 'dp'
 project.version = '1.0.0'
 
 tasks.withType(Compile) { options.encoding = "UTF-8" }
@@ -25,7 +25,7 @@ dependencies {
 
 jar {
 	manifest {
-		attributes 'Implementation-Title': 'Gradle Quickstart', 'Implementation-Version': version
+		attributes 'Implementation-Title': 'DPModel', 'Implementation-Version': 1.0.0
 	}
 }
 
