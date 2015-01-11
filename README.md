@@ -2,13 +2,13 @@
 
 《[设计模式之禅](http://book.douban.com/subject/4260618/)》原书源码，有部分修改。存于此便于以后参考使用。
 
-##六大设计原则
-*[单一职责原则(SRP)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/srp) 
-*[开闭原则(OCP)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/ocp)
-*[里氏替换原则(LSP)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/lsp)  
-*[迪米特法则(LOD)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/lod) 
-*[接口隔离原则(ISP)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/isp)
-*[依赖倒置原则(DIP)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/dip)  
+##六大设计原则(SOLID)
+ * [单一职责原则(SRP)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/srp)
+ * [开闭原则(OCP)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/ocp)
+ * [里氏替换原则(LSP)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/lsp)
+ * [迪米特法则(LOD)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/lod)
+ * [接口隔离原则(ISP)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/isp)
+ * [依赖倒置原则(DIP)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/dip)  
 
 
 ##23个设计模式
