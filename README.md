@@ -66,6 +66,7 @@
 ![Alt text](src/dp/com/company/proxy/dynamicproxy.jpg "动态代理模式类图")
 
 ###19.[单例模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/singleton)  
+![Alt text](src/dp/com/company/singleton/singleton.gif "单例模式")
 
 ###20.[状态模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/state)  
 ![Alt text](src/dp/com/company/state/state.jpg "状态模式类图")
