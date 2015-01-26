@@ -1,4 +1,4 @@
-#组合模式(Strategy Pattern) 
+#组合模式(Composite Pattern) 
 定义：Composite objects into tree structures to represent part-whole hierarchies. Composite lets clients treat individual objects and compositions of objects uniformly.（将对象组合成树形结构以表示“部分-整理”的层次结构，使得用户对单个对象和组合对象的使用具有一致性。）  
 
 
