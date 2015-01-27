@@ -61,7 +61,7 @@
 ![Alt text](src/dp/com/company/observer/observer.jpg "观察者模式类图")
 
 ###17.[门面模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/facade)  
-![Alt text](src/dp/com/company/facade/facade.jpg "门面模式类图")
+![Alt text](src/dp/com/company/facade/facade.gif "门面模式示意图")
 
 ###18.[备忘录模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/memento)  
 ![Alt text](src/dp/com/company/memento/memento.jpg "备忘录模式类图")
