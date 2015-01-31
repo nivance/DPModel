@@ -76,7 +76,7 @@
 ![Alt text](src/dp/com/company/interpreter/interpreter.jpg "解释器模式类图")
 
 ###22.[享元模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/flyweight)  
-![Alt text](src/dp/com/company/flyweight/flyweight.jpg "享元模式类图")
+![Alt text](src/dp/com/company/flyweight/flyweight.gif "享元模式类图")
 
 ###23.[桥接模式](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/bridge)  
 ![Alt text](src/dp/com/company/bridge/bridge.jpg "桥接模式类图")
