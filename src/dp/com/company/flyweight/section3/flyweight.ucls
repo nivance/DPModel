@@ -19,8 +19,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="3" language="java" name="com.company.flyweight.section3.ConcreteFlyweight1" project="DPModel" 
-    file="/DPModel/src/dp/com/company/flyweight/section3/ConcreteFlyweight1.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="3" language="java" name="com.company.flyweight.section3.ConcreteFlyweight" project="DPModel" 
+    file="/DPModel/src/dp/com/company/flyweight/section3/ConcreteFlyweight.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="109" y="356"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
@@ -28,8 +28,9 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="4" language="java" name="com.company.flyweight.section3.ConcreteFlyweight2" project="DPModel" 
-    file="/DPModel/src/dp/com/company/flyweight/section3/ConcreteFlyweight2.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="4" language="java" name="com.company.flyweight.section3.UnshareConcreteFlyweight" project="DPModel" 
+    file="/DPModel/src/dp/com/company/flyweight/section3/UnshareConcreteFlyweight.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
     <position height="-1" width="-1" x="351" y="357"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
       visibility="true">      
@@ -38,21 +39,21 @@
     </display>  
   </class>  
   <generalization id="5">    
-    <end type="SOURCE" refId="3"/>    
-    <end type="TARGET" refId="1"/>  
-  </generalization>  
-  <generalization id="6">    
     <end type="SOURCE" refId="4"/>    
     <end type="TARGET" refId="1"/>  
   </generalization>  
-  <association id="7">    
+  <association id="6">    
     <end type="SOURCE" refId="2" navigable="false">      
-      <attribute id="8" name="pool"/>      
-      <multiplicity id="9" minimum="0" maximum="2147483647"/>    
+      <attribute id="7" name="pool"/>      
+      <multiplicity id="8" minimum="0" maximum="2147483647"/>    
     </end>    
     <end type="TARGET" refId="1" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
+  <generalization id="9">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
     accessors="true" visibility="true">    
     <attributes public="true" package="true" protected="true" private="true" static="true"/>    
