@@ -15,7 +15,7 @@ public abstract class GameModel {
 	public void run(){
 		this.gameInit();
 		this.startSale();
-		this.startSale();
+		this.stopSale();
 		this.startNewPeriod();
 		this.procPeriodEnd();
 	}
