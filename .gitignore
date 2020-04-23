@@ -1,6 +1,35 @@
-/build
+# maven ignore
+target/
+*.jar
+*.war
+*.zip
+*.tar
+*.tar.gz
+.flattened-pom.xml
 
-/.gradle
-/.settings
+# eclipse ignore
+.settings/
+.project
+.classpath
 
-/bin
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+
+# system ignore
+.DS_Store
+Thumbs.db
+*.orig
+
+# license check result
+license-list
+
