@@ -25,3 +25,9 @@
   
 ### 3.适配器模式的注意事项 
 适配器模式最好在详细设计不要考虑它，它不是为了解决还处在开发阶段的问题，而是解决正在服役的项目问题。 
+
+### 4.扩展(Java io 适配器模式)
+* [Java总结IO篇之字节流与字符流转化](https://cloud.tencent.com/developer/article/1353803)
+
+![Alt text](java-io-adapter.png "Java io 适配器模式")
+

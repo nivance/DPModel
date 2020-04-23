@@ -1,12 +1,12 @@
 package com.company.adapter.section1;
 
 /**
- * @author cbf4Life cbf4life@126.com
- * I'm glad to share my knowledge with you all.
+ * @author cbf4Life cbf4life@126.com <br/>
+ *         I'm glad to share my knowledge with you all.
  */
 public class UserInfo implements IUserInfo {
 
-	/* 
+	/*
 	 * 获得家庭地址，下属送礼也可以找到地方
 	 */
 	public String getHomeAddress() {
@@ -14,7 +14,7 @@ public class UserInfo implements IUserInfo {
 		return null;
 	}
 
-	/* 
+	/*
 	 * 获得家庭电话号码
 	 */
 	public String getHomeTelNumber() {
@@ -22,7 +22,7 @@ public class UserInfo implements IUserInfo {
 		return null;
 	}
 
-	/* 
+	/*
 	 * 员工的职位，是部门经理还是小兵
 	 */
 	public String getJobPosition() {
@@ -30,7 +30,7 @@ public class UserInfo implements IUserInfo {
 		return null;
 	}
 
-	/* 
+	/*
 	 * 手机号码
 	 */
 	public String getMobileNumber() {
@@ -38,7 +38,7 @@ public class UserInfo implements IUserInfo {
 		return null;
 	}
 
-	/* 
+	/*
 	 * 办公室电话，烦躁的时候最好“不小心”把电话线踢掉，我经常这么干，对己对人都有好处
 	 */
 	public String getOfficeTelNumber() {
@@ -46,7 +46,7 @@ public class UserInfo implements IUserInfo {
 		return null;
 	}
 
-	/* 
+	/*
 	 * 姓名了，这个老重要了
 	 */
 	public String getUserName() {
