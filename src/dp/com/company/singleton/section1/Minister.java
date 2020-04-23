@@ -4,8 +4,9 @@
 package com.company.singleton.section1;
 
 /**
- * @author cbf4Life cbf4life@126.com I'm glad to share my knowledge with you
- *         all. 大臣是天天要面见皇帝，今天见的皇帝和昨天的，前天不一样那就出问题了！
+ * @author cbf4Life cbf4life@126.com <br/>
+ *         I'm glad to share my knowledge with you all. <br/>
+ *         大臣是天天要面见皇帝，今天见的皇帝和昨天的，前天不一样那就出问题了！
  */
 @SuppressWarnings("all")
 public class Minister {
