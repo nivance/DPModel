@@ -3,9 +3,9 @@ package com.company.builder.section2;
 import java.util.ArrayList;
 
 /**
- * @author cbf4Life cbf4life@126.com
- * I'm glad to share my knowledge with you all.
- * 各种设施都给了，我们按照一定的顺序制造一个奔驰车
+ * @author cbf4Life cbf4life@126.com <br/>
+ *         I'm glad to share my knowledge with you all. <br/>
+ *         各种设施都给了，我们按照一定的顺序制造一个奔驰车
  */
 public class BenzBuilder extends CarBuilder {
 	private BenzModel benz = new BenzModel();
@@ -14,7 +14,6 @@ public class BenzBuilder extends CarBuilder {
 	public CarModel getCarModel() {
 		return this.benz;
 	}
-
 
 	@Override
 	public void setSequence(ArrayList<String> sequence) {
