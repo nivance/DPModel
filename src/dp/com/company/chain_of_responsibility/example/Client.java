@@ -1,9 +1,8 @@
 package com.company.chain_of_responsibility.example;
 
-
 /**
- * @author cbf4Life cbf4life@126.com I'm glad to share my knowledge with you
- *         all. 
+ * @author cbf4Life cbf4life@126.com <br/>
+ *         I'm glad to share my knowledge with you all.
  */
 
 public class Client {
@@ -18,9 +17,9 @@ public class Client {
 		dm.setNext(vp);
 		// 提交请求，返回结果
 		Response response1 = pm.handlerMessage(new Request(1));
-		
+
 		Response response2 = pm.handlerMessage(new Request(2));
-		
+
 		Response response3 = pm.handlerMessage(new Request(3));
 	}
 

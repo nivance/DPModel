@@ -1,8 +1,9 @@
 package com.company.chain_of_responsibility.example;
 
 /**
- * @author cbf4Life cbf4life@126.com I'm glad to share my knowledge with you
- *         all. 父系社会，那就是男性有至高权利，handler控制权
+ * @author cbf4Life cbf4life@126.com <br/>
+ *         I'm glad to share my knowledge with you all. <br/>
+ *         父系社会，那就是男性有至高权利，handler控制权
  */
 
 public abstract class Handler {
