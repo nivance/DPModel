@@ -3,8 +3,8 @@ package com.company.command.section4;
 
 
 /**
- * @author cbf4Life cbf4life@126.com
- * I'm glad to share my knowledge with you all.
+ * @author cbf4Life cbf4life@126.com <br/>
+ *         I'm glad to share my knowledge with you all.
  */
 public class Client {
 	private static Invoker invoker;
