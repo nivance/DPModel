@@ -2,6 +2,9 @@
 
 《[设计模式之禅](http://book.douban.com/subject/4260618/)》原书源码，有部分修改。存于此便于以后参考使用。
 
+设计模式相关资料
+* [设计模式](https://refactoringguru.cn/design-patterns)
+
 ## 六大设计原则(SOLID)
  * [单一职责原则(SRP)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/srp)
  * [开闭原则(OCP)](https://github.com/nivance/DPModel/tree/master/src/dp/com/company/ocp)
