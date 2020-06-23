@@ -20,7 +20,7 @@ public class Client {
 		//System.out.println(ceo.getInfo());
 		
 		//然后是所有员工信息
-		//System.out.println(getTreeInfo(ceo));
+//		System.out.println(getTreeInfo(ceo));
 	}
 	
 	//把整个树组装出来
